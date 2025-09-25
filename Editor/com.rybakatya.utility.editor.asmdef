@@ -1,8 +1,8 @@
 {
-    "name": "Utility.Editor",
+    "name": "com.rybakatya.editor",
     "rootNamespace": "",
     "references": [
-        "GUID:3b867739534ab63409a2c840f228364c"
+        "GUID:b6342157ec7a33543af6aefc54d61b8c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
